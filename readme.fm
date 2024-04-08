@@ -1,0 +1,14 @@
+# Project Setup
+
+## Pre-installation Requirements:
+1. Install Node.js
+2. Install Playwright (JavaScript version)
+
+## Running the Project:
+To get the project up and running on your local machine, follow these steps:
+
+1. npm install
+2. To run a specific test file with debugging enabled:
+npx playwright test paranthesesBalancing.spec.ts --debug
+or
+npx playwright test paranthesesBalancing.spec.ts --debug
